@@ -1,0 +1,21 @@
+.img-earth {
+  float: left;
+  border-color: black;
+  border-width: 3px;
+  padding: 5px 5px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.img-charshanbe-suri {
+  float: right;
+  padding: 5px 5px;
+}
+p {
+  font-size: 20px;
+  border: 3px;
+}
