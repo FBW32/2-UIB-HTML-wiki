@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(240, 219, 192);
+}
+
+h1 {
+    text-decoration: underline;
+}
+h5 {
+    font-style: italic;
+}
+
+p {
+    font-weight:500;
+}
+
+article {
+    font-style: oblique;
+}
