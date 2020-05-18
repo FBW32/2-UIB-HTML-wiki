@@ -1,0 +1,40 @@
+body{
+    margin: 0mm 10mm 0mm 12.5%;
+    padding: 5mm;
+    border-left: solid rgb(43, 177, 221) .25mm;
+    border-spacing: 10mm;
+}
+
+.wiki-logo{
+    position: block;
+    margin: initial;
+    padding: none;
+    width: 100%;
+    height: auto;
+}
+
+.side-panel{
+    position: absolute;
+    margin: auto;
+    padding: 0mm;
+    width: 12.5%;
+    height: auto;
+    top: 0;
+    left: 0mm;
+    list-style-type: none;
+}
+
+.side-panel-contents{
+    margin: auto;
+    padding: 0mm 0mm 0mm 5mm;
+    width: auto;
+    list-style-type: none;
+}
+
+.side-panel-list{
+    position: block;
+    margin: 0mm;
+    border: 0mm;
+    padding: 0mm;
+    list-style-type: none;
+}
